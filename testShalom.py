@@ -8,8 +8,5 @@ for i in range(len(testFam)):
     temp.append(testFam[i])
     if rate == x:
         temp.append(x)
-<<<<<<< HEAD
-        "I love python"
-=======
-     #   fuck python
->>>>>>> 7bbf9a279e30a9aef3219b9baa85c97e72482358
+    #    "I love python"
+    #    fuck python
