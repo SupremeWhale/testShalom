@@ -8,3 +8,4 @@ for i in range(len(testFam)):
     temp.append(testFam[i])
     if rate == x:
         temp.append(x)
+        "I love python"
