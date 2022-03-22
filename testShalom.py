@@ -9,3 +9,4 @@ for i in range(len(testFam)):
     if rate == x:
         temp.append(x)
      #   fuck python
+     #JK
